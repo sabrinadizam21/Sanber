@@ -1,0 +1,7 @@
+$ git add .
+
+$ git commit -m "soal"
+
+$ git push origin master
+
+//setelah itu masukan username dan password gitlab
